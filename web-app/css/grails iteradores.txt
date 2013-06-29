@@ -1,0 +1,15 @@
+<g:link 
+id:1
+es lo q se manda dsp del action
+show/1
+
+<g:if test "${condicion que da true o false}"></g:if>
+
+<g:else>
+<g:/else>
+
+<g:each var:"cliente" in="${listaDeClientes}">
+
+tags security
+
+href="${resource(dir:'images', file:"archivo"}
